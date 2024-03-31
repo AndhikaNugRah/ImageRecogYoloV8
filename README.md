@@ -1,7 +1,7 @@
 # ImageRecogYoloV8
 Title: YOLOv8 Object Detection App (Image Focus) with Confidence Threshold Control
 
-This Streamlit application leverages the power of YOLOv8 for real-time object detection. It utilizes a pre-trained model, stored conveniently in helper.py, for efficient image processing. While the underlying code is capable of handling video and webcam streams, this specific implementation focuses on user-uploaded images.
+This Streamlit application leverages the power of YOLOv8 for real-time object detection. It utilizes a pre-trained model, stored conveniently in helper.py and setting.py, for efficient image processing. While the underlying code is capable of handling video and webcam streams, this specific implementation focuses on user-uploaded images.
 
 Key Features:
 Image Object Detection: Upload images and get real-time detections with YOLOv8.
